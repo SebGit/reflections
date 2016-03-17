@@ -1,0 +1,47 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+Viewing diff between two files help me to find bugs because I can quickly check wich line(s) of code have changed.
+So this is better than checking manualy complete files.
+
+---------------------------------------
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It make me a better programmer in the long terme because I can know what have been done on every files I want.
+I can have a better control on my work.
+
+---------------------------------------
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+With automatic saving you don't have to worry about when saving but there's no logical meaning.
+With manual saving you got to take care about when you should save.
+But if you do it correclty it will improve you control on your code history.
+
+---------------------------------------
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+Most of users of Google Docs don't need such fonctionality because they don't need to track change between files.
+
+---------------------------------------
+
+How can you use the commands git log and git diff to view the history of files?
+
+With git log I can see all commits that have been done on a file.
+With git diff I can see the difference between two commits on that file.
+
+---------------------------------------
+
+How might using version control make you more confident to make changes that could break something?
+
+I more confident because I know that it possible for me to revert anything I need to.
+
+---------------------------------------
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+Now I would like to create my own repository.
+
+---------------------------------------
