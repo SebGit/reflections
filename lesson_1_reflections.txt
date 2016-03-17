@@ -51,3 +51,18 @@ How can you use the staging area to make sure you have one commit per logical ch
 I will put in the staging area only the files that are related to that logical change.
 
 ---------------------------------------
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+Branches can be helpful when I need to test an experimental version or create a specific version.
+It help because I can work on wich branch I want to and commit changes only on this branch.
+
+---------------------------------------
+
+How do the diagrams help you visualize the branch structure?
+
+This help me to visualize branch structure by helping me to know which commit belong to wich branch, 
+wich commit is parent of the other and to visualize easly unreachable commit.
+It's a kind of map that help me to navigate.
+ 
+---------------------------------------
