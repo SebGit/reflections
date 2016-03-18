@@ -66,3 +66,10 @@ wich commit is parent of the other and to visualize easly unreachable commit.
 It's a kind of map that help me to navigate.
  
 ---------------------------------------
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+The result is that we obtain a commit that contain modifications of the two branch.
+Because we need to keep the parents relations of the commits.
+
+---------------------------------------
