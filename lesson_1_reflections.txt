@@ -1,8 +1,10 @@
+---------------------------------------
+
 How did viewing a diff between two versions of a file help you see the bug that
 was introduced?
 
 Viewing diff between two files help me to find bugs because I can quickly check wich line(s) of code have changed.
-So this is better than checking manualy complete files.
+So this is better than checking manualy all lines of code.
 
 ---------------------------------------
 
@@ -13,7 +15,8 @@ I can have a better control on my work.
 
 ---------------------------------------
 
-What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+What do you think are the pros and cons of manually choosing when to create a commit,
+like you do in Git, vs having versions automatically saved, like Google Docs does?
 
 With automatic saving you don't have to worry about when saving but there's no logical meaning.
 With manual saving you got to take care about when you should save.
@@ -21,7 +24,8 @@ But if you do it correclty it will improve you control on your code history.
 
 ---------------------------------------
 
-Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+Why do you think some version control systems, like Git, allow saving multiple files in one commit,
+while others, like Google Docs, treat each file separately?
 
 Most of users of Google Docs don't need such fonctionality because they don't need to track change between files.
 
