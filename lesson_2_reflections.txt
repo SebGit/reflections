@@ -11,6 +11,10 @@ How is the staging area different from the working directory and the repository?
 It differs from them because you don't really store data in it. It's just a place where to put file(s) that wait to be commited.
 So you can choose wich files to be commited and make your versioning more logical.
 
-
 ---------------------------------------
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+For pros is easier and faster to use automatic merging but for cons you have better control over the merging operation because no code are added by git itself.
+
+---------------------------------------
