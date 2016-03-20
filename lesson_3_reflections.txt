@@ -8,6 +8,7 @@ I use a remote repo when I need to colaborate with over dev or if I want to work
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 
-It may be better to pull changes manually because I need to control exactly what and when to share my code.
+It may be better to pull changes manually because I need to control exactly what version is on my computer 
+and maybe is not the same as the remote.
 
 ---------------------------------------
