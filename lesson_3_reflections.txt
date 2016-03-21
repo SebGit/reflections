@@ -34,3 +34,10 @@ It would be easier and faster for a very small dev with one or two developers.
 But it will be nearly impossible for middle or big dev.
 
 ---------------------------------------
+
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+I would do that when I need to try something or to be sure of my code before merging to master branch.
+That workflow is harder but safer.
+
+---------------------------------------
