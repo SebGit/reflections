@@ -12,3 +12,17 @@ It may be better to pull changes manually because I need to control exactly what
 and maybe is not the same as the remote.
 
 ---------------------------------------
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Forks is copy of a remote repository onto GitHub.
+Clones is copy of remote or a local repository on local computer.
+Branches is not a copy as forks or clones, it creates a new version of a repository.
+
+---------------------------------------
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+It's good because we can work with that copy offline and compare it with your branches.
+
+---------------------------------------
